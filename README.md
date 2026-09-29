@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulqarnainhaider000&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zulqarnainhaider000?style=flat-square&color=orange" alt="Followers" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square" alt="GitHub Profile" />
 </p>
 
 ---
